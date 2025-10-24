@@ -1,0 +1,47 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Work Portfolio",
+    "section": "",
+    "text": "Riya Saini\n(She/ Her)\nMaster of City Planning | Transportation Planning\nUniversity of Pennsylvania\nRiya Saini is a transportation planner passionate about creating data-driven, equitable, and sustainable mobility systems. With experience in transportation modeling, transit planning, and policy analysis, Riya leverages analytical tools and spatial visualization to enhance accessibility and efficiency across urban networks. Building on a foundation from the University of Pennsylvania and hands-on work in regional mobility projects, Riya is committed to bridging research, technology, and community engagement to design inclusive and resilient transportation solutions for cities of all scales.\n\n\n\nMy Projects:\n\n\nBus Lane and Transit Signal Prioritization in Philadelphia\nThis project supports SEPTA’s Bus Revolution network redesign by identifying key streets and intersections in Philadelphia with the highest bus activity and mobility needs. By analyzing ridership patterns, bus performance, and demographic indicators, it aims to enhance service efficiency and equity.\n\n\nSEPTA Ridership Recovery Post-Covid\nThis project analyzes SEPTA’s ridership recovery initiative, focusing on the relationship between socioeconomic characteristics, urban infrastructure, and public transit usage in Philadelphia, particularly bus services. In response to the COVID-19 pandemic, SEPTA launched a comprehensive ridership recovery program aimed at restoring full-service levels while ensuring passenger safety.\n\n\nSEPTA MicroTransit: Connecting Transit Deserts in Greater Philadelphia\nThis project evaluates SEPTA’s new MicroTransit initiative, focused on improving public transit accessibility in transit-deserts of Greater Philadelphia. It explores how flexible, on-demand transit can better connect underserved outer suburbs to the broader SEPTA network. The analysis centers on trade-offs between cost, equity, and service efficiency, comparing case studies, pilot results, and the planned roll-out of MicroTransit.\n\n\nFlood Mapping for Urban Disruptions and Emergency Response\nThis project investigates flood detection using Sentinel-2 satellite imagery, focusing on how preprocessing strategies and deep learning models can identify flooded versus non-flooded areas across diverse geographic regions. Through testing and comparing 3 different models, we demonstrate that RGB imagery can provide an effective and lightweight solution for flood detection, offering strong potential for disaster monitoring in resource-constrained settings.\n\n\nShifting Skies: The Rise and Fall of Airlines Since 2013\nThis analysis explores shifts in air transport since 2013 using FAA Terminal Area Forecast data, identifying trends among major and minor airports. It highlights which airports have grown, stagnated, or declined over time.\n\n\nRising Economies of Leisure Airports Post-COVID\nThis analysis explores how major leisure-focused airports have evolved before and after the COVID-19 pandemic. These airports serve as key hubs for low-cost carriers catering to high-demand tourist routes. The study examines shifts in operations, recovery trends, and changing revenue structures in response to evolving travel patterns.",
+    "crumbs": [
+      "My Projects:"
+    ]
+  },
+  {
+    "objectID": "New folder/index.html",
+    "href": "New folder/index.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "This project supports SEPTA’s Bus Revolution network redesign by identifying key streets and intersections in Philadelphia with the highest bus activity and mobility needs. By analyzing ridership patterns, bus performance, and demographic indicators, it aims to enhance service efficiency and equity."
+  },
+  {
+    "objectID": "New folder/index.html#bus-lane-and-transit-signal-prioritization-in-philadelphia",
+    "href": "New folder/index.html#bus-lane-and-transit-signal-prioritization-in-philadelphia",
+    "title": "My Projects",
+    "section": "",
+    "text": "This project supports SEPTA’s Bus Revolution network redesign by identifying key streets and intersections in Philadelphia with the highest bus activity and mobility needs. By analyzing ridership patterns, bus performance, and demographic indicators, it aims to enhance service efficiency and equity."
+  },
+  {
+    "objectID": "New folder/index.html#septa-ridership-recovery-post-covid",
+    "href": "New folder/index.html#septa-ridership-recovery-post-covid",
+    "title": "My Projects",
+    "section": "SEPTA Ridership Recovery Post-Covid",
+    "text": "SEPTA Ridership Recovery Post-Covid\nThis project analyzes SEPTA’s ridership recovery initiative, focusing on the relationship between socioeconomic characteristics, urban infrastructure, and public transit usage in Philadelphia, particularly bus services. In response to the COVID-19 pandemic, SEPTA launched a comprehensive ridership recovery program aimed at restoring full-service levels while ensuring passenger safety"
+  },
+  {
+    "objectID": "New folder/index.html#shifting-skies-the-rise-and-fall-of-airlines-since-2013",
+    "href": "New folder/index.html#shifting-skies-the-rise-and-fall-of-airlines-since-2013",
+    "title": "My Projects",
+    "section": "Shifting Skies: The Rise and Fall of Airlines Since 2013",
+    "text": "Shifting Skies: The Rise and Fall of Airlines Since 2013\nThis analysis explores shifts in air transport since 2013 using FAA Terminal Area Forecast data, identifying trends among major and minor airports. It highlights which airports have grown, stagnated, or declined over time."
+  },
+  {
+    "objectID": "New folder/index.html#rising-economies-of-leisure-airports-post-covid",
+    "href": "New folder/index.html#rising-economies-of-leisure-airports-post-covid",
+    "title": "My Projects",
+    "section": "Rising Economies of Leisure Airports Post-COVID",
+    "text": "Rising Economies of Leisure Airports Post-COVID\nThis analysis explores how major leisure-focused airports have evolved before and after the COVID-19 pandemic. These airports serve as key hubs for low-cost carriers catering to high-demand tourist routes. The study examines shifts in operations, recovery trends, and changing revenue structures in response to evolving travel patterns."
+  }
+]
